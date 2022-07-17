@@ -1,5 +1,4 @@
-# module-2
-professional portfolio
+# Module-2 Professional Portfolio
 Module 2 features creating a web application from scratch.The goal is to build a professional portfolio which can be edited thruout the bootcamp. The portfolio will showcase my talent and skills at they develop in the course. It will feature core skills learned like flexbox, media querys, CSS variables and follow the AS AN / I WANT / SO THAT format.
 
 The Acceptance Criteria goes as follows:
